@@ -19,7 +19,7 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 21521750      | Trương Khánh Long      |[boo283](https://github.com/boo283)                  |21521750@gm.uit.edu.vn   |
+| 1      | 21521750      | Trương Khánh Long      |[Tweek154](https://github.com/Tweek154)              |21521750@gm.uit.edu.vn   |
 | 2      | 21521819      | Hoàng Hải Anh          |[HoangHai0810](https://github.com/HoangHai0810)      |21521819@gm.uit.edu.vn   |
 | 3      | 21522614      | Nguyễn Chí Thi         |[nchiht](https://github.com/nchiht)                  |21522614@gm.uit.edu.vn   |
 | 4      | 21520725      | Bùi Lê Trọng Đức       |                                                     |21520725@gm.uit.edu.vn   |
